@@ -11,7 +11,7 @@
 - Backend:- Python, Node.js, PHP, Java
 - Backend Frameworks:- Express.js, Ruby, Django, Flask, ASP.NET, Express.js.
 - Cloud Platforms:- AWS, Azure, Google Cloud
--Programming Languages:- C, C++, Java, Python, R, Matlab, Kotlin
+- Programming Languages:- C, C++, Java, Python, R, Matlab, Kotlin
 - Technologies:- Artificial Intelligence, Machine Learning, IoT, DBMS, Data Science, Web 3.0, Deep Learning, Cybersecurity, Cloud Computing, DevOps, Natural Language Processing, VR and AR.
 - AI Technology Libraries:- TensorFlow, Pytorch, Keras, OpenAI's GPT, Scikit-Learn, Microsoft Cognitive Toolkit (CNTK).
 - Tools:- VS Studio, Android Studio, Pycharm, EclipseIDE, Matlab, IntellijIDE Etc.
