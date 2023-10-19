@@ -8,7 +8,8 @@
 - Frontend:- HTML5, CSS, JavaScript
 - Frontend Frameworks:- React, Angular, Vue.js
 - Version Control:- Git hub
-- Backend:- Python, Node.js, PHP, Java • Web Frameworks:- Express.js, Ruby, Django
+- Backend:- Python, Node.js, PHP, Java
+- Backend Frameworks:- Express.js, Ruby, Django, Flask, ASP.NET, Express.js.
 - Cloud Platforms:- AWS, Azure, Google Cloud
 -Programming Languages:- C, C++, Java, Python, R, Matlab, Kotlin
 - Technologies:- Artificial Intelligence, Machine Learning, IoT, DBMS, Data Science, Web 3.0, Deep Learning, Cybersecurity, Cloud Computing, DevOps, Natural Language Processing, VR and AR.
