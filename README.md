@@ -4,14 +4,24 @@
 - 💞️ I’m looking to collaborate on new innovative projects using new trends and technologies.
 - I'M Very fast ⏩ learner, with clear mind.
 - 📫 How to reach me: My Personal Contacts, Phone No. :- +91-8767296910, Email:- sp3130016@gmail.com
+- Education:
+- 1) Degree:- Bachelore Of Technology In Computer Science & Engineering (Data Science)
+     College:- D. Y. Patil College Of Engineering & Technology Kasaba Bawada, Kolhapur
+     Date:- 2022-2026
+- 2) Degree:- 12Th-HSE-PCMBE-IT
+     College:- Adarsg Vidyaniketan & JR. College Minche, Hatakanangle
+     Date:- 2021-2022
+- 3) Degree:- 10th-SSC
+     College:- New English School Pal
+     Date:- 2019-2020     
 - 🤹‍♂️🖥️ Skills
 - Frontend:- HTML5, CSS, JavaScript
 - Frontend Frameworks:- React, Angular, Vue.js
 - Version Control:- Git hub
 - Backend:- Python, Node.js, PHP, Java
 - Backend Frameworks:- Express.js, Ruby, Django, Flask, ASP.NET, Express.js.
-- Cloud Platforms:- AWS, Azure, Google Cloud
-- Programming Languages:- C, C++, Java, Python, R, Matlab, Kotlin
+- Cloud Platforms:- Azure, Google Cloud
+- Programming Languages:- C++, Java, Python, R, Matlab, Kotlin
 - Database:- MySQL, SQL, MONGODB.
 - Technologies:- Artificial Intelligence, Machine Learning, IoT, DBMS, Data Science, Web 3.0, Deep Learning, Cybersecurity, Ethical Hacking, Cloud Computing, DevOps, Natural Language Processing, VR and AR.
 - AI Technology Libraries:- TensorFlow, Pytorch, Keras, OpenAI's GPT, Scikit-Learn, Microsoft Cognitive Toolkit (CNTK).
