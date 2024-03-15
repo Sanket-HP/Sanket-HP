@@ -14,26 +14,26 @@
 - 3) Degree:- 10th-SSC
      -College:- New English School Pal
      -Date:- 2019-2020     
-- 🤹‍♂️🖥️ Skills
-- Frontend:- HTML5, CSS, JavaScript
-- Frontend Frameworks:- React, Angular, Vue.js
-- Version Control:- Git hub
-- Backend:- Python, Node.js, PHP, Java
-- Backend Frameworks:- Express.js, Ruby, Django, Flask, ASP.NET, Express.js.
-- Cloud Platforms:- Azure, Google Cloud
-- Programming Languages:- C++, Java, Python, R, Matlab, Kotlin
-- Database:- MySQL, SQL, MONGODB.
-- Technologies:- Artificial Intelligence, Machine Learning, IoT, DBMS, Data Science, Web 3.0, Deep Learning, Cybersecurity, Ethical Hacking, Cloud Computing, DevOps, Natural Language Processing, VR and AR.
-- AI Technology Libraries:- TensorFlow, Pytorch, Keras, OpenAI's GPT, Scikit-Learn, Microsoft Cognitive Toolkit (CNTK).
-- Tools:- VS Studio, Android Studio, Pycharm, EclipseIDE, Matlab, IntellijIDE Etc.
-- Communication
-- Problem Solving
-- Creativity
-- TeamWork
-- Time Management
-- Project Management
-- Decision Making
-- Fast Learner 
+- <b>🤹‍♂️🖥️ Skills</b>
+- <b>Frontend:-<b> HTML5, CSS, JavaScript
+- <b>Frontend Frameworks:-</b> React, Angular, Vue.js
+- <b>Version Control:-</b> Git hub
+- <b>Backend:-</b> Python, Node.js, PHP, Java
+- <b>Backend Frameworks:-<b> Express.js, Ruby, Django, Flask, ASP.NET, Express.js.
+- <b>Cloud Platforms:-</b> Azure, Google Cloud
+- <b>Programming Languages:-</b> C++, Java, Python, R, Matlab, Kotlin
+- <b>Database:-</b> MySQL, SQL, MONGODB.
+- <b>Technologies:-</b> Artificial Intelligence, Machine Learning, IoT, DBMS, Data Science, Web 3.0, Deep Learning, Cybersecurity, Ethical Hacking, Cloud Computing, DevOps, Natural Language Processing, VR and AR.
+- <b>AI Technology Libraries:-</b> TensorFlow, Pytorch, Keras, OpenAI's GPT, Scikit-Learn, Microsoft Cognitive Toolkit (CNTK).
+- <b>Tools:-</b> VS Studio, Android Studio, Pycharm, EclipseIDE, Matlab, IntellijIDE Etc.
+- <b>Communication</b>
+- <b>Problem Solving</b>
+- <b>Creativity</b>
+- <b>TeamWork</b>
+- <b>Time Management</b>
+- <b>Project Management</b>
+- <b>Decision Making</b>
+- <b>Fast Learner</b> 
 
 <!---
 Sanket-HP/Sanket-HP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
