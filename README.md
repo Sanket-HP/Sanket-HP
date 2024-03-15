@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on new innovative projects using new trends and technologies.
 - I'M Very fast ⏩ learner, with clear mind.
 - 📫 How to reach me: My Personal Contacts, Phone No. :- +91-8767296910, Email:- sp3130016@gmail.com
-- Education:
+-<b> Education:</b>
 - 1) Degree:- Bachelore Of Technology In Computer Science & Engineering (Data Science)
      College:- D. Y. Patil College Of Engineering & Technology Kasaba Bawada, Kolhapur
      Date:- 2022-2026
