@@ -4,16 +4,16 @@
 - 💞️ I’m looking to collaborate on new innovative projects using new trends and technologies.
 - I'M Very fast ⏩ learner, with clear mind.
 - 📫 How to reach me: My Personal Contacts, Phone No. :- +91-8767296910, Email:- sp3130016@gmail.com
--<b> Education:</b>
+- <b>Education:</b>
 - 1) Degree:- Bachelore Of Technology In Computer Science & Engineering (Data Science)
-     College:- D. Y. Patil College Of Engineering & Technology Kasaba Bawada, Kolhapur
-     Date:- 2022-2026
+     -College:- D. Y. Patil College Of Engineering & Technology Kasaba Bawada, Kolhapur
+     -Date:- 2022-2026
 - 2) Degree:- 12Th-HSE-PCMBE-IT
-     College:- Adarsg Vidyaniketan & JR. College Minche, Hatakanangle
-     Date:- 2021-2022
+     -College:- Adarsg Vidyaniketan & JR. College Minche, Hatakanangle
+     -Date:- 2021-2022
 - 3) Degree:- 10th-SSC
-     College:- New English School Pal
-     Date:- 2019-2020     
+     -College:- New English School Pal
+     -Date:- 2019-2020     
 - 🤹‍♂️🖥️ Skills
 - Frontend:- HTML5, CSS, JavaScript
 - Frontend Frameworks:- React, Angular, Vue.js
