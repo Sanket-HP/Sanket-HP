@@ -9,7 +9,7 @@
      <h2>College:- D. Y. Patil College Of Engineering & Technology Kasaba Bawada, Kolhapur</h2>
      <h2>Date:- 2022-2026</h2>
 -  <h2>Degree:- 12Th-HSE-PCMBE-IT</h2> 
-     <h2>College:- Adarsg Vidyaniketan & JR. College Minche, Hatakanangle</h2>
+     <h2>College:- Adarsh Vidyaniketan & JR. College Minche, Hatakanangle</h2>
      <h2>Date:- 2021-2022</h2>
 -  <h2>Degree:- 10th-SSC</h2>
      <h2>College:- New English School Pal</h2>
