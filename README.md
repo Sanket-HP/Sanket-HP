@@ -5,15 +5,15 @@
 - I'M Very fast ⏩ learner, with clear mind.
 - <b>📫 How to reach me: My Personal Contacts, Phone No. :- +91-8767296910, Email:- sp3130016@gmail.com</b>
 - <h1><b>Education:</b></h1>
-- 1) <h2>Degree:- Bachelore Of Technology In Computer Science & Engineering (Data Science)</h2>
+-   <h2>Degree:- Bachelore Of Technology In Computer Science & Engineering (Data Science)</h2>
      <h2>College:- D. Y. Patil College Of Engineering & Technology Kasaba Bawada, Kolhapur</h2>
      <h2>Date:- 2022-2026</h2>
-- 2) Degree:- 12Th-HSE-PCMBE-IT
-     -College:- Adarsg Vidyaniketan & JR. College Minche, Hatakanangle
-     -Date:- 2021-2022
-- 3) Degree:- 10th-SSC
-     -College:- New English School Pal
-     -Date:- 2019-2020     
+-  <h2>Degree:- 12Th-HSE-PCMBE-IT</h2> 
+     <h2>College:- Adarsg Vidyaniketan & JR. College Minche, Hatakanangle</h2>
+     <h2>Date:- 2021-2022</h2>
+-  <h2>Degree:- 10th-SSC</h2>
+     <h2>College:- New English School Pal</h2>
+     <h2>Date:- 2019-2020  </h2>   
 - <b>🤹‍♂️🖥️ Skills</b>
 - <b>Frontend:-<b> HTML5, CSS, JavaScript
 - <b>Frontend Frameworks:-</b> React, Angular, Vue.js
