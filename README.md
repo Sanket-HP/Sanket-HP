@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sanket-HP Sanket Sarjerao More-Patil.
+- <b>👋 Hi, I’m @Sanket-HP Sanket Sarjerao More-Patil.</b>
 - 👀 I’m interested in build new innovative software using new trends and as per user needs.
 - 🌱 I’m currently learning B.Tech CSE(DS) in D. Y. Patil College Of Engineering & Technology Kasaba Bawada, Kolhapur.
 - 💞️ I’m looking to collaborate on new innovative projects using new trends and technologies.
