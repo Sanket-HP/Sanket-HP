@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on new innovative projects using new trends and technologies.
 - I'M Very fast ⏩ learner, with clear mind.
 - <b>📫 How to reach me: My Personal Contacts, Phone No. :- +91-8767296910, Email:- sp3130016@gmail.com</b>
-- <b>Education:</b>
-- 1) <h1>Degree:- Bachelore Of Technology In Computer Science & Engineering (Data Science)</h1>h1>
+- <h1><b>Education:</b></h1>
+- 1) <h2>Degree:- Bachelore Of Technology In Computer Science & Engineering (Data Science)</h2>
      <h2>College:- D. Y. Patil College Of Engineering & Technology Kasaba Bawada, Kolhapur</h2>
-     <h3>Date:- 2022-2026</h3>
+     <h2>Date:- 2022-2026</h2>
 - 2) Degree:- 12Th-HSE-PCMBE-IT
      -College:- Adarsg Vidyaniketan & JR. College Minche, Hatakanangle
      -Date:- 2021-2022
