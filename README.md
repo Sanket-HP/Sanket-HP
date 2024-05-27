@@ -17,10 +17,12 @@
 
    - **12th - HSE - PCMBE - IT**
      - **College:** Adarsh Vidyaniketan & JR. College, Minche, Hatakanangle
+     - **Percentage:** 77.33
      - **Date:** 2021-2022
 
    - **10th - SSC**
      - **College:** New English School Pal
+     - **Percentage:** 75.80
      - **Date:** 2019-2020
 
 🤹‍♂️🖥️ **Skills:**
@@ -30,9 +32,9 @@
    - **Backend:** Python, Node.js, PHP, Java
    - **Backend Frameworks:** Express.js, Ruby, Django, Flask, ASP.NET
    - **Cloud Platforms:** Azure, Google Cloud
-   - **Programming Languages:** C++, Java, Python, R, Matlab, Kotlin
-   - **Technologies:** Artificial Intelligence, Machine Learning, IoT, DBMS, Data Science, Web 3.0, Deep Learning, Ethical Hacking, Cloud Computing, DevOps, Natural Language Processing, VR and AR
+   - **Programming Languages:** C, Java, Python, R, Matlab, Kotlin
+   - **Technologies:** Artificial Intelligence, Machine Learning, IoT, DBMS, Data Science, Web 3.0, Deep Learning, Ethical Hacking, Cloud Computing, DevOps, Natural Language Processing, AR and VR
    - **AI Technology Libraries:** TensorFlow, Pytorch, Keras, OpenAI's GPT, Scikit-Learn, Microsoft Cognitive Toolkit (CNTK)
-   - **Tools:** VS Studio, Android Studio, PyCharm, Eclipse IDE, Matlab, IntelliJ IDEA
+   - **Tools:** VS Studio, Android Studio, PyCharm, Eclipse IDE, Matlab, IntelliJ IDEA, GitHub
 
 📡 **Communication** | 💡 **Problem Solving** | 🎨 **Creativity** | 👥 **Teamwork** | ⏰ **Time Management** | 📊 **Project Management** | 🤔 **Decision Making** | ⚡ **Fast Learner**
