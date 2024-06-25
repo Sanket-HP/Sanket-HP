@@ -32,9 +32,9 @@
    - **Backend:** Python, Node.js, PHP, Java
    - **Backend Frameworks:** Express.js, Ruby, Django, Flask, ASP.NET
    - **Cloud Platforms:** Azure, Google Cloud
-   - **Programming Languages:** C, Java, Python, R, Matlab, Kotlin
-   - **Technologies:** Artificial Intelligence, Machine Learning, IoT, DBMS, Data Science, Web 3.0, Deep Learning, Ethical Hacking, Cloud Computing, DevOps, Natural Language Processing, AR and VR
-   - **AI Technology Libraries:** TensorFlow, Pytorch, Keras, OpenAI's GPT, Scikit-Learn, Microsoft Cognitive Toolkit (CNTK)
+   - **Programming Languages:** C#, Python, R, SQL
+   - **Technologies:** Artificial Intelligence, Machine Learning, Web 3.0, Data Science, DevOps, Natural Language Processing
+   - **AI Technology Libraries:** TensorFlow, Pytorch, Keras, OpenAI's GPT, Scikit-Learn
    - **Tools:** VS Studio, Android Studio, PyCharm, Eclipse IDE, Matlab, IntelliJ IDEA, GitHub
 
 📡 **Communication** | 💡 **Problem Solving** | 🎨 **Creativity** | 👥 **Teamwork** | ⏰ **Time Management** | 📊 **Project Management** | 🤔 **Decision Making** | ⚡ **Fast Learner**
