@@ -1,4 +1,4 @@
-👋 Hi, I’m Sanket Sarjerao More-Patil.
+👋 Hi, I’m Sanket Sarjerao Patil.
 
 👀 I’m interested in building innovative software using new trends and meeting user needs.
 
@@ -27,11 +27,11 @@
 
 🤹‍♂️🖥️ **Skills:**
    - **Frontend:** HTML5, CSS, JavaScript
-   - **Frontend Frameworks:** React, Angular, Vue.js
+   - **Frontend Frameworks:** React, Angular
    - **Version Control:** GitHub
-   - **Backend:** Python, Node.js, PHP, Java
-   - **Backend Frameworks:** Express.js, Ruby, Django, Flask, ASP.NET
-   - **Cloud Platforms:** Azure, Google Cloud
+   - **Backend:** Python
+   - **Backend Frameworks:**  Django, Flask
+   - **Cloud Platforms:** Azure, Google Cloud, AWS
    - **Programming Languages:** C#, Python, R, SQL
    - **Technologies:** Artificial Intelligence, Machine Learning, Web 3.0, Data Science, DevOps, Natural Language Processing
    - **AI Technology Libraries:** TensorFlow, Pytorch, Keras, OpenAI's GPT, Scikit-Learn
