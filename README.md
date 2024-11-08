@@ -15,7 +15,7 @@
      - **College:** D. Y. Patil College Of Engineering & Technology, Kolhapur
      - **Date:** 2022-2026
 
-   - **12th - HSE - PCMBE - IT**
+   - **12th - HSE - PCMB - IT**
      - **College:** Adarsh Vidyaniketan & JR. College, Minche, Hatakanangle
      - **Percentage:** 77.33
      - **Date:** 2021-2022
@@ -29,12 +29,10 @@
    - **Frontend:** HTML5, CSS, JavaScript
    - **Frontend Frameworks:** React, Angular
    - **Version Control:** GitHub
-   - **Backend:** Python
-   - **Backend Frameworks:**  Django, Flask
    - **Cloud Platforms:** Azure, Google Cloud, AWS
    - **Programming Languages:** C#, Python, R, SQL
    - **Technologies:** Artificial Intelligence, Machine Learning, Web 3.0, Data Science, DevOps, Natural Language Processing
    - **AI Technology Libraries:** TensorFlow, Pytorch, Keras, OpenAI's GPT, Scikit-Learn
-   - **Tools:** VS Studio, Android Studio, PyCharm, Eclipse IDE, Matlab, IntelliJ IDEA, GitHub
+   - **Tools:** VS Studio, Android Studio, PyCharm, Jupyter NoteBook, Google Colab, Google WorkSpace, Microsoft 365
 
 📡 **Communication** | 💡 **Problem Solving** | 🎨 **Creativity** | 👥 **Teamwork** | ⏰ **Time Management** | 📊 **Project Management** | 🤔 **Decision Making** | ⚡ **Fast Learner**
