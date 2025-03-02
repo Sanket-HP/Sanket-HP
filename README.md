@@ -29,7 +29,7 @@
    - **Frontend:** HTML5, CSS, JavaScript
    - **Version Control:** GitHub
    - **Cloud Platforms:** Azure, Google Cloud, AWS
-   - **Programming Languages:** C#, Python, R, SQL
+   - **Programming Languages:** Python, R, SQL
    - **Technologies:** Artificial Intelligence, Machine Learning, Web 3.0, Data Science
    - **AI Technology Libraries:** TensorFlow, Pytorch, Keras, OpenAI's GPT, Scikit-Learn
    - **Tools:** VS Studio, Android Studio, PyCharm, Jupyter NoteBook, Google Colab, Google WorkSpace, Microsoft 365
