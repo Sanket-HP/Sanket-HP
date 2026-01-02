@@ -1,37 +1,72 @@
-👋 Hi, I’m Sanket Sarjerao Patil.
+👋 Hi, I’m Sanket Sarjerao Patil
 
-👀 I’m interested in building innovative software using new trends and meeting user needs.
+I’m a Computer Science & Engineering (Data Science) undergraduate passionate about building innovative, future-ready software that aligns with real user needs and emerging technology trends.
 
-🌱 I’m currently pursuing B.Tech CSE(DS) at D. Y. Patil College Of Engineering & Technology, Kolhapur.
+My GitHub primarily showcases original projects, experiments, and research-based implementations developed as part of my learning and innovation journey.
 
-💞️ I’m looking to collaborate on new innovative projects using emerging technologies.
+🚀 What You’ll Find Here
 
-📫 How to reach me:
-   - Phone No.: +91-8767296910
-   - Email: sp3130016@gmail.com
+🔬 Innovative software projects
 
-🎓 **Education:**
-   - **B.Tech in Computer Science & Engineering (Data Science)**
-     - **College:** D. Y. Patil College Of Engineering & Technology, Kolhapur
-     - **Date:** 2022-2026
+🧠 Problem-driven system designs
 
-   - **12th - HSE - PCMB - IT**
-     - **College:** Adarsh Vidyaniketan & JR. College, Minche, Hatakanangle
-     - **Percentage:** 77.33
-     - **Date:** 2021-2022
+📊 Data science & AI-focused implementations
 
-   - **10th - SSC**
-     - **College:** New English School Pal
-     - **Percentage:** 75.80
-     - **Date:** 2019-2020
+🌐 Web-based experimental platforms
 
-🤹‍♂️🖥️ **Skills:**
-   - **Frontend:** HTML5, CSS, JavaScript
-   - **Version Control:** GitHub
-   - **Cloud Platforms:** Azure, Google Cloud, AWS
-   - **Programming Languages:** Python, R, SQL
-   - **Technologies:** Artificial Intelligence, Machine Learning, Web 3.0, Data Science
-   - **AI Technology Libraries:** TensorFlow, Pytorch, Keras, OpenAI's GPT, Scikit-Learn
-   - **Tools:** VS Studio, Android Studio, PyCharm, Jupyter NoteBook, Google Colab, Google WorkSpace, Microsoft 365
+⚙️ Concept-first engineering approaches
 
-📡 **Communication** | 💡 **Problem Solving** | 🎨 **Creativity** | 👥 **Teamwork** | ⏰ **Time Management** | 📊 **Project Management** | 🤔 **Decision Making** | ⚡ **Fast Learner**
+Each repository reflects hands-on thinking, architecture design, and implementation logic, not just code dumps.
+
+🔐 Important Notice (Please Read)
+
+⚠️ All projects in this GitHub profile are strictly for viewing and learning purposes only.
+
+🚫 You do NOT have permission to:
+
+Download the code
+
+Clone repositories
+
+Reuse, modify, redistribute, or deploy any part of the code
+
+Use the projects for commercial or non-commercial purposes
+
+👀 Visitors are encouraged to explore project ideas, structure, and concepts directly on GitHub.
+
+📌 Unauthorized use, duplication, or distribution is not permitted.
+If you’re interested in collaboration or access, please contact me directly.
+
+🤝 Collaboration & Opportunities
+
+I’m open to collaborating on:
+
+Innovative software products
+
+Emerging technology research
+
+Experimental AI/data-driven systems
+
+Early-stage startup or product ideas
+
+If your idea is bold, original, and problem-focused, let’s talk.
+
+📫 How to Reach Me
+
+📞 Phone: +91-8767296910
+
+📧 Email: sp3130016@gmail.com
+
+🎓 Education
+
+B.Tech – Computer Science & Engineering (Data Science)
+📍 D. Y. Patil College Of Engineering & Technology, Kolhapur
+📅 2022 – 2026
+
+12th – HSE (PCMB – IT)
+📍 Adarsh Vidyaniketan & JR. College, Minche, Hatakanangle
+📊 77.33% | 2021 – 2022
+
+10th – SSC
+📍 New English School, Pal
+📊 75.80% | 2019 – 2020
